@@ -14,7 +14,7 @@
 ---
 - [Github](https://github.com/fatemehrostamian)
 - [PNU_3991_AR](https://github.com/fatemehrostamian/PNU_3991_AR)
-- [رزومه](https://fatemehrostamian.github.io/)
+- [رزومه](https://fatemehrostamian.github.io)
 - [SOP](https://fatemehrostamian.github.io/sop/)
 - [JavaScript certificate]()
 - [jlord patchwork]()
