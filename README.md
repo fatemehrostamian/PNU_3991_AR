@@ -13,7 +13,7 @@
  
 ---
 - [Github](https://github.com/fatemehrostamian)
-- [PNU_3991_AR](https://fatemehrostamian.github.io/PNU_3991_AR/)
+- [PNU_3991_AR](https://github.com/fatemehrostamian/PNU_3991_AR)
 - [رزومه](https://fatemehrostamian.github.io/)
 - [SOP](https://fatemehrostamian.github.io/sop/)
 - [JavaScript certificate]()
