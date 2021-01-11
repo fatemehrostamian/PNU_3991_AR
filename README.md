@@ -38,7 +38,7 @@
 
 ## جستجو منابع دیگر
 
-[معرفی پایان نامه](https://github.com/seasun238/PNU_3991_AR/blob/main/Payanameh.pdf) 
+[معرفی پایان نامه](https://github.com/fatemehrostamian/PNU_3991_AR/blob/main/Payanameh.pdf) 
 
 
 
